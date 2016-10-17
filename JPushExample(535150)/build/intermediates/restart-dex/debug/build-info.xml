@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    format="7"
+    timestamp="316037595622161" >
+
+    <task
+        name="javac"
+        duration="525" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="79" />
+    <task
+        name="verifier"
+        duration="38" />
+
+    <artifact
+        location="G:\Android1612\Day35_Oct13\Oct17Jpush\JPushExample(535150)\build\outputs\apk\JPushExample(535150)-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="316037595622161" >
+        <artifact
+            location="G:\Android1612\Day35_Oct13\Oct17Jpush\JPushExample(535150)\build\outputs\apk\JPushExample(535150)-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
